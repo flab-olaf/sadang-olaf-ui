@@ -1,5 +1,11 @@
 # @sadang-olaf/ui
 
+## 1.1.3
+
+### Patch Changes
+
+- 832d7ce: Repo/vite plugin css
+
 ## 1.1.2
 
 ### Patch Changes
